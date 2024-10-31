@@ -1,0 +1,402 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2021-05-11 19:45+0000\n"
+"PO-Revision-Date: 2021-12-08 18:43+0000\n"
+"Last-Translator: \n"
+"Language-Team: Հայերեն\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: hy\n"
+"X-Generator: Loco https://localise.biz/\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"Report-Msgid-Bugs-To: \n"
+"X-Loco-Version: 2.5.2; wp-5.7.2"
+
+#. URI of the plugin
+msgid "#"
+msgstr "#"
+
+#: wc-araratbank-payment-gateway.php:649
+msgid ")"
+msgstr ")"
+
+#: wc-araratbank-payment-gateway.php:930
+msgid "Activate shopping cart function"
+msgstr "Ակտիվացնել զամբյուղի պարունակության գործառույթը"
+
+#: wc-araratbank-payment-gateway.php:144 wc-araratbank-payment-gateway.php:167 
+#: wc-araratbank-payment-gateway.php:878
+msgid "Add a credit card"
+msgstr "Կցագրել բանկային քարտը"
+
+#: wc-araratbank-payment-gateway.php:1128
+msgid "ARARAT BANK"
+msgstr ""
+"ARARAT BANK\n"
+
+#: wc-araratbank-payment-gateway.php:1131
+msgid ""
+"Before using the plugin, please contact the bank to receive respective "
+"regulations."
+msgstr ""
+"Հավելվածը օգտագործելուց առաջ անհրաժեշտ է կապ հաստատել բանկի հետ համապատասխան "
+"կարգավորումները ստանալու համար։"
+
+#: wc-araratbank-payment-gateway.php:906
+msgid "Binding Password"
+msgstr "Binding Գաղտնաբառ"
+
+#: wc-araratbank-payment-gateway.php:902
+msgid "Binding User Name"
+msgstr "Binding Մուտքանուն"
+
+#: wc-araratbank-payment-gateway.php:929
+msgid "Cart totals"
+msgstr "Զամբյուղի պարունակություն"
+
+#: wc-araratbank-payment-gateway.php:1030
+msgid "Connection error."
+msgstr "Connection error."
+
+#: wc-araratbank-payment-gateway.php:835
+msgid "Debug Log"
+msgstr "Կարգավիճակի մատյան"
+
+#: wc-araratbank-payment-gateway.php:807
+msgid "Description"
+msgstr "Նկարագրություն"
+
+#: wc-araratbank-payment-gateway.php:869
+msgid "Enable \"Save Card\" function"
+msgstr "Միացնել քարտի պահպանման հնարավորությունը"
+
+#: wc-araratbank-payment-gateway.php:837
+msgid "Enable debug mode"
+msgstr "Միացնել մատյանը"
+
+#: wc-araratbank-payment-gateway.php:828
+msgid "Enable Multi-Currency"
+msgstr "Միացնել բազմարժույթի հնարավորությունը"
+
+#: wc-araratbank-payment-gateway.php:860
+msgid "Enable payment confirmation function"
+msgstr "Միացնել վճարման հաստատաման գործառույթը"
+
+#: wc-araratbank-payment-gateway.php:793
+msgid "Enable payment gateway"
+msgstr "Միացնել վճարային համակարգը"
+
+#: wc-araratbank-payment-gateway.php:872
+msgid "Enable Save Card"
+msgstr "Միացնել քարտի պահպանման հնարավորությունը"
+
+#: wc-araratbank-payment-gateway.php:843
+#| msgid "Enable Test Mode"
+msgid "Enable test Mode"
+msgstr "Միացնել թեստային տարբերակը"
+
+#: wc-araratbank-payment-gateway.php:792
+msgid "Enable/Disable"
+msgstr "Միացնել/անջատել"
+
+#: wc-araratbank-payment-gateway.php:856 wc-araratbank-payment-gateway.php:908
+msgid "Enter password"
+msgstr "Մուտքագրել գաղտնաբառը"
+
+#: wc-araratbank-payment-gateway.php:1165
+#| msgid "Example araratbankgayudcsu14"
+msgid "Example AraratBankgayudcsu14"
+msgstr "Օրինակ AraratBankgayudcsu14"
+
+#: wc-araratbank-payment-gateway.php:775 wc-araratbank-payment-gateway.php:1179
+msgid "here"
+msgstr "այստեղ"
+
+#: wc-araratbank-payment-gateway.php:822
+msgid "Here interface language of bank purchase can be regulated"
+msgstr "Այստեղ կարելի է կարգաբերել բանկային վճարման էջի ինտերֆեյսի լեզուն"
+
+#: wc-araratbank-payment-gateway.php:787
+msgid "Here you can change the language of the plugin control panel."
+msgstr "Այստեղ կարող եք փոփոխել հավելման կառավարման վահանակի լեզուն։"
+
+#. Author of the plugin
+msgid "HK Digital Agency LLC"
+msgstr "HK Digital Agency LLC"
+
+#. Author URI of the plugin
+msgid "https://hkdigital.am"
+msgstr "https://hkdigital.am"
+
+#: wc-araratbank-payment-gateway.php:1164
+msgid "Identification password"
+msgstr "Նույնականացման գաղտնաբառ"
+
+#: wc-araratbank-payment-gateway.php:815
+msgid "Language"
+msgstr "Լեզու"
+
+#: wc-araratbank-payment-gateway.php:937
+msgid "Links"
+msgstr "Հղումներ"
+
+#: wc-araratbank-payment-gateway.php:911
+msgid "Live Settings"
+msgstr "Իրական կարգավորումներ "
+
+#: wc-araratbank-payment-gateway.php:770
+msgid ""
+"Log HKD ARCA Gateway events, inside <code>woocommerce/logs/araratbank."
+"txt</code>"
+msgstr ""
+"Սխալների գրանցմանը կարող եք հետևել <code>woocommerce/logs/araratbank."
+"txt</code>"
+
+#: wc-araratbank-payment-gateway.php:827
+msgid "Multi-Currency"
+msgstr "Բազմարժույթ"
+
+#: wc-araratbank-payment-gateway.php:875
+msgid "New binding card text"
+msgstr "Կցագրման դաշտի անվանում"
+
+#: wc-araratbank-payment-gateway.php:663
+msgid "No Saved Cards"
+msgstr "Պահված քարտեր չկան:"
+
+#: wc-araratbank-payment-gateway.php:1127
+#| msgid "Online payment gateway"
+msgid "ONLINE PAYMENT GATEWAY"
+msgstr "Առցանց վճարման համակարգ"
+
+#: wc-araratbank-payment-gateway.php:920
+msgid "Password"
+msgstr "Գաղտնաբառ"
+
+#: wc-araratbank-payment-gateway.php:142 wc-araratbank-payment-gateway.php:802
+msgid "Pay via credit card"
+msgstr "Վճարել քարտով"
+
+#. Description of the plugin
+#, fuzzy
+#| msgid ""
+#| "Pay with  araratbank payment system. Please note that the payment will be "
+#| "made in Armenian Dram."
+msgid ""
+"Pay with  AraratBank payment system. Please note that the payment will be "
+"made in Armenian Dram."
+msgstr ""
+"Վճարե՛ք/վճարումն իրականացրե՛ք Ձեր կրեդիտ/բանկային քարտով: Խնդրում ենք նկատի "
+"ունենալ՝ վճարումն իրականացվելու է հայկական դրամով:"
+
+#. Name of the plugin
+#| msgid "Payment gateway for araratbank"
+msgid "Payment gateway for AraratBank"
+msgstr "Payment gateway for AraratBank"
+
+#: wc-araratbank-payment-gateway.php:1377 
+#: wc-araratbank-payment-gateway.php:1403 
+#: wc-araratbank-payment-gateway.php:1410
+msgid "Please try again later."
+msgstr "Խնդրում ենք փորձել ավելի ուշ:"
+
+#: wc-araratbank-payment-gateway.php:1000 
+#: wc-araratbank-payment-gateway.php:1025
+msgid "Please try again."
+msgstr "Խնդրում ենք կրկին փորձեք:"
+
+#: wc-araratbank-payment-gateway.php:780 wc-araratbank-payment-gateway.php:1145
+msgid "Plugin language"
+msgstr "Հավելման վահանակի լեզու"
+
+#: wc-araratbank-payment-gateway.php:810
+msgid ""
+"Purchase by  credit card. Please, note that purchase is going to be made by "
+"Armenian drams. "
+msgstr ""
+"Վճարումն իրականացրե՛ք Ձեր բանկային քարտով: Խնդրում ենք նկատի ունենալ՝ "
+"վճարումն իրականացվելու է հայկական դրամով:"
+
+#: wc-araratbank-payment-gateway.php:143
+msgid ""
+"Purchase by credit card. Please, note that purchase is going to be made by "
+"Armenian drams. "
+msgstr ""
+"Վճարումն իրականացրե՛ք Ձեր բանկային քարտով: Խնդրում ենք նկատի ունենալ՝ "
+"վճարումն իրականացվելու է հայկական դրամով:"
+
+#: wc-araratbank-payment-gateway.php:145 wc-araratbank-payment-gateway.php:168 
+#: wc-araratbank-payment-gateway.php:887
+msgid "Purchase safely by using your saved credit card"
+msgstr "Վճարեք ապահով՝ օգտագործելով Ձեր պահպանված քարտը:"
+
+#: wc-araratbank-payment-gateway.php:867
+msgid "Save Card Admin"
+msgstr "Քարտի պահպանում"
+
+#: wc-araratbank-payment-gateway.php:884
+msgid "Save card description text"
+msgstr "Կցագրված բանկային քարտերի նկարագիր"
+
+#: wc-araratbank-payment-gateway.php:1190
+msgid "See bank offer"
+msgstr "Ծանոթանալ բանկի առաջարկին"
+
+#: wc-araratbank-payment-gateway.php:1197
+msgid "See plugin possibilities"
+msgstr "Ծանոթանալ հավելման հնարավորություններին"
+
+#: wc-araratbank-payment-gateway.php:1203
+msgid "See terms of usage"
+msgstr "Ծանոթանալ օգտագործման պայմաններին"
+
+#: wc-araratbank-payment-gateway.php:1453
+msgid "Settings"
+msgstr "Կարգավորումներ"
+
+#: wc-araratbank-payment-gateway.php:842
+msgid "Test mode"
+msgstr "Թեստային տարբերակ"
+
+#: wc-araratbank-payment-gateway.php:854
+msgid "Test Password"
+msgstr "Թեստային գաղտնաբառ"
+
+#: wc-araratbank-payment-gateway.php:850
+msgid "Test User Name"
+msgstr "Թեստային օգտանուն"
+
+#: wc-araratbank-payment-gateway.php:830
+msgid ""
+"This action, if permitted by the bank, enables to purchase by multiple "
+"currencies"
+msgstr ""
+"Այս գործողությունը, բանկի կողմից թույլատրման դեպքում, կայքի միջոցով "
+"բազմարժույթ վճարումներ իրականացնելու հնարավորություն է ընձեռում:"
+
+#: wc-araratbank-payment-gateway.php:932
+msgid ""
+"This feature ensures that the contents of the shopping cart are available at "
+"the time of order registration if the site buyer decides to change the "
+"payment method."
+msgstr ""
+"Այս գործառույթը ակտիվացման ժամանակ կապահովի պատվերի գրանցման ժամանակ "
+"զամբյուղի պարունակությունը, եթե կայքի հաճախորդը որոշի փոփոխել վճարման "
+"տարբերակը։"
+
+#: wc-araratbank-payment-gateway.php:799
+msgid "Title"
+msgstr "Անվանում"
+
+#: wc-araratbank-payment-gateway.php:1177
+msgid "To see the identification terms, click"
+msgstr ""
+"Նույնականացման պայմաններին ծանոթանալու, ինչպես նաև ձեռք բերելու համար սեղմեք "
+"այստեղ"
+
+#: wc-araratbank-payment-gateway.php:845
+msgid ""
+"To test the testing version login and password provided by the bank should "
+"be typed"
+msgstr ""
+"Թեստային տարբերակը փորձարկելու համար անհրաժեշտ է մուտքագրել բանկի կողմից "
+"տրամադրված օգտանունը և գաղտնաբառը։"
+
+#: wc-araratbank-payment-gateway.php:1290
+msgid "Token not valid"
+msgstr "Նույնականացման գաղտնաբառը սխալ է"
+
+#: wc-araratbank-payment-gateway.php:859
+msgid "Two-stage Payment"
+msgstr "Վճարման հաստատման գործառույթ"
+
+#: wc-araratbank-payment-gateway.php:862
+msgid ""
+"two-stage: when the payment amount is first blocked on the buyer’s account "
+"and then at the second stage is withdrawn from the account"
+msgstr ""
+"Երկու փուլով. երբ վճարման ենթակա գումարը առաջին փուլում սառեցվում է գնորդի "
+"հաշվին, իսկ երկրորդ փուլում՝ ելքագրվում վերջինիս հաշվից:"
+
+#: wc-araratbank-payment-gateway.php:812
+msgid "Type the description"
+msgstr "Մուտքագրել Նկարագրությունը"
+
+#: wc-araratbank-payment-gateway.php:922
+msgid "Type the password"
+msgstr "Մուտքագրել գաղտնաբառը"
+
+#: wc-araratbank-payment-gateway.php:876
+msgid "Type the save card checkbox text"
+msgstr "Մուտքագրել կցագրվող բանկային քարտի տեքստը"
+
+#: wc-araratbank-payment-gateway.php:885
+msgid "Type the save card description text"
+msgstr "Մուտքագրել կցագրված բանկային քարտերի նկարագիրը"
+
+#: wc-araratbank-payment-gateway.php:804
+msgid "Type the title"
+msgstr "Մուտքագրել Անվանումը"
+
+#: wc-araratbank-payment-gateway.php:894
+msgid "Type the use new card text"
+msgstr "Մուտքագրել նոր քարտի օգտագործման համար անվանում"
+
+#: wc-araratbank-payment-gateway.php:917
+msgid "Type the user name"
+msgstr "Մուտքագրել օգտանունը"
+
+#: wc-araratbank-payment-gateway.php:146 wc-araratbank-payment-gateway.php:169 
+#: wc-araratbank-payment-gateway.php:896
+msgid "Use a new credit card"
+msgstr "Օգտագործել նոր քարտ"
+
+#: wc-araratbank-payment-gateway.php:893
+msgid "Use new card text"
+msgstr "Նոր քարտի տեքստը"
+
+#: wc-araratbank-payment-gateway.php:925
+msgid "Useful functions"
+msgstr "Օգտակար հղումներ"
+
+#: wc-araratbank-payment-gateway.php:1182
+msgid "Useful links"
+msgstr "Օգտակար հղումներ"
+
+#: wc-araratbank-payment-gateway.php:809
+msgid ""
+"User (website visitor) sees this description on order registry page in bank "
+"purchase option."
+msgstr ""
+"Այս նկարագրությունը օգտագործողը(կայքի հաճախորդը) տեսնում է պատվերի գրանցման "
+"էջում՝ բանկային վճարման տարբերակի ժամանակ։"
+
+#: wc-araratbank-payment-gateway.php:801
+msgid ""
+"User (website visitor) sees this title on order registry page as a title for "
+"purchase option."
+msgstr ""
+"Օգտագործողն (կայքի հաճախորդը) այս վերնագիրը տեսնում է պատվերի գրանցման "
+"էջում՝ որպես վճարման տարբերակի անվանում"
+
+#: wc-araratbank-payment-gateway.php:915
+msgid "User Name"
+msgstr "Իրական օգտանուն"
+
+#: wc-araratbank-payment-gateway.php:644
+msgid "You can Delete Cards"
+msgstr "Անհրաժեշտության դեպքում ցանկից կարող եք ջնջել քարտը/երը:"
+
+#: wc-araratbank-payment-gateway.php:1260 
+#: wc-araratbank-payment-gateway.php:1296
+#| msgid "you must fill token"
+msgid "You must fill token"
+msgstr ""
+"Խնդրում ենք անցնել նույնականացում։ Հարցերի դեպքում զանգահարել 033 779-779 "
+"հեռախոսահամարով։ "
+
+#: wc-araratbank-payment-gateway.php:643
+msgid "Your card list"
+msgstr "Ստորև ներկայացված է Ձեր կողմից կցագրված քարտերի ցանկը:"

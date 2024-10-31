@@ -1,0 +1,103 @@
+@font-face {
+    font-family: "Open Sans";
+    src: url("../fonts/OpenSans-Regular.ttf");
+}
+
+.wrap-content-hkd {
+    font-family: "Open Sans", Arial, sans-serif;
+    font-weight:normal;
+    font-style:normal;
+}
+
+.wrap-content-hkd-400px{
+    /*width: 400px;*/
+    width: 341px;
+    display: inline-block;
+    padding-left: 50px;
+    margin-bottom: 20px;
+}
+.wrap-content-hkd-400px h2{
+    font-size: 30px;
+}
+.wrap-content-info{
+    padding-left: 50px;
+}
+.wrap-content-hkd-400px img{
+    width: 100%;
+}
+
+.wrap-araratbank.wrap-content.wrap-content-hkd h4{
+   margin-top:60px;
+}
+
+.wrap-content-hkd textarea{
+    width: 400px !important;
+}
+.icon{
+    position: absolute;
+    left: 51px;
+    margin-top: 5px;
+}
+.wrap-araratbank .phone-icon{
+    color: #006037 !important;
+}
+.wrap-araratbank .mail-icon{
+    color: #006037;
+}
+
+.wrap-araratbank .phone-icon-2{
+    color: #4ec3cc;
+}
+
+.wrap-araratbank .mail-icon-2{
+    color: #4ec3cc;
+}
+
+.wrap-araratbank .wrap-content-info{
+    font-size: 16px;
+}
+
+.wrap-araratbank .wrap-content-info p{
+    font-size: 16px!important;
+}
+.araratbank_info ul li{
+    padding-top: 15px;
+}
+.araratbank_info ul li a{
+
+    font-size: 15px;
+    color: #444444d9;
+    padding-top:40px;
+    text-decoration: none;
+}
+.wrap-content-info a, .wrap-content-info a:hover, .wrap-content-info a:active, .wrap-content-info a:focus{
+    text-decoration: none;
+    color: #444;
+}
+
+@media only screen and (max-width: 1600px) {
+    .wrap-content-hkd{
+        right: 245px;
+    }
+
+}
+
+@media only screen and (max-width: 1400px) {
+    .wrap-content-hkd{
+        right: 170px;
+    }
+
+}
+
+@media only screen and (max-width: 1300px) {
+    .wrap-content-hkd{
+        right: 110px;
+    }
+
+}
+@media only screen and (max-width: 1200px) {
+    .wrap-content-hkd{
+        right: 50px;
+    }
+
+}
